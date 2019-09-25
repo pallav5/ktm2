@@ -1,6 +1,13 @@
 from django.shortcuts import render
 
-# Create your views here.
+# Create your viewwwwas here.
 
 def index(request):
-     return render(request,'pages/index.html')
+
+          context = {
+               'title':"E-commerce"
+          }
+          return render(request,'pages/index.html',context)
+
+
+

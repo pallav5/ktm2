@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4a65713-56cb-4018-8b17-4a8d3cd9996a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/_footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/_navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/_topbar.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Include/Python-ast.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Include/Python.h" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Include/abstract.h" afterDir="false" />
@@ -5787,6 +5791,11 @@
       <change afterPath="$PROJECT_DIR$/venv/tcl/tk8.6/ttk/xpTheme.tcl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/tcl/tk8.6/unsupported.tcl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/tcl/tk8.6/xmfbox.tcl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ktmjobs/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ktmjobs/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -5798,16 +5807,28 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/venv" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\djangoktm\ktmjobs\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1RHSHiL4pZ9oDTTOoGAMfoglkfv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
